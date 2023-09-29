@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python , Statistics and Data and Murders
 - 📫 How to reach me: 📧 tejas05in@yahoo.co.in
 
-- ⚡ Fun fact: I am a forensic pathologist and a physician from 🇮🇳
+- ⚡ Fun fact: I am a forensic pathologist and a physician from India
