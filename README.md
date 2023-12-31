@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 #### You can also find me on: 
 
-[<img align="left" alt="tejas j  | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="tejas j | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="tejas j | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="tejas j | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
-[<img align="left" alt="tejas j | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+[<img align="left" alt="tejas j  | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][[linkedin](https://www.linkedin.com/in/tejas-j-51a55084/)]
+[<img align="left" alt="tejas j | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][[twitter](https://twitter.com/tj88176909)]
+[<img align="left" alt="tejas j | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][[Instagram](https://www.instagram.com/tejas.j.naidu/)]
+[<img align="left" alt="tejas j | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][[YouTube](https://www.youtube.com/channel/UCLv3Hs99yAuQZHXAbg6Y7Cg)]
+[<img align="left" alt="tejas j | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][[LeetCode](https://leetcode.com/tejasjjobs/)]
