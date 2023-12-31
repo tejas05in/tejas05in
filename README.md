@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 📧 tejas05in@yahoo.co.in
 
 - ⚡ Fun fact: I am a forensic pathologist and a physician from India
+docker flask git heroku  mongodb mysql opencv postman python pytorch scikit_learn tensorflow
