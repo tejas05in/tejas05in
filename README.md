@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="tejas j | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />](https://leetcode.com/tejasjjobs/)
 
 
-
+\n
 [![Dr.Tejas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@tejas05in)](https://github.com/tejas05in/github-readme-stats)
